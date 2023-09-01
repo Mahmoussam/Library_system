@@ -2,7 +2,7 @@
 ======
 Library GUI software  written in Python with the taste of OOP and pyqt5.
 
-![screenshot of the UI](https://github.com/Mahmoussam/Library_system_pyqt5/blob/master/Screenshot%202023-09-01%20203717.png)
+![screenshot of the UI](https://github.com/Mahmoussam/Library_system/blob/master/Screenshot%202023-09-01%20203717.png)
 
 Library.py is the main code, based on JSON file input
 Library_firebase.py is the main code based on Firebase
