@@ -1,0 +1,38 @@
+{
+    "Harry Potter and the Chamber Of Secrets" : {
+        "author": "J.K.Rolling",
+        "cost": 350,
+        "section" : "Fantasia"
+    },
+    "Harry Potter and the Goblet of Fire" : {
+        "author": "J.K.Rolling",
+        "cost": 365,
+        "section" : "Fantasia"
+    },
+    "Clean Code" : {
+        "author": "Robert C. Martin",
+        "cost": 220,
+        "section" : "Programming"
+    }, 
+    "Grokking Algorithms" : {
+        "author": "Adita Y.Bhargava",
+        "cost": 200,
+        "section" : "Programming"
+    },     
+    "Animal Farm" : {
+        "author": "George Oril",
+        "cost": 185,
+        "section" : "Fantasia"
+    },
+    "Little Women" : {
+        "author": "Louisa May Alcott",
+        "cost": 370,
+        "section" : "Children Literature"
+    },
+    "Anne With An E" : {
+        "author": "Lucy Maud",
+        "cost": 420,
+        "section" : "Children Literature"
+    }  
+                 
+}
